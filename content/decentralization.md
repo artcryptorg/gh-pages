@@ -20,13 +20,6 @@ Everything changed with the invention of blockchain technology (although some co
 
 **Decentralization in the wild**
 
-A decentralized service is a distributed organism where each user is a part of one whole. As an example consider the forest as an example of a decentralized system of blockchains and interchains.
-
-The tree blockchain interacts with the grass blockchain and the squirrel blockchain. Many decentralized ecosystems in the forest are interconnected by bridges and send transactions to each other. The kingdom of mushrooms alone is worth something.
-
-The forest does not have a single control center. Instead, each part of it acts in its interests. Yet, all its elements are combined into a giant ecosystem and are naturally synchronized with each other.
-
-**The idea**
 
 In the same way, a group of people united by a common idea or having the same values ​​can join a community where there will be no chairperson, deputy, secretary, etc. The meaning in these positions disappears, and corruption opportunities are associated with them. Such communities can interact with other groups and communities as well as individuals. And the rules of these interactions and communications are equal. A smart contract monitors the fulfillment of the conditions of exchange and transactions. Regulators, notaries, and brokers are no longer needed. They are extra in this chain of interaction.
 

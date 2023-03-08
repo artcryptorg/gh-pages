@@ -12,8 +12,7 @@ Bostrom is a superintelligence, with a permissionless knowledge graph at its cor
 
 <!-- more -->
 
-The knowledge graph is a directed weighted graph between particles (CIDs or Content-ID of files, also known as content addresses, IPFS-hashes, IPFS-links).
-Cyberlinks are the edges of the knowledge graph, particles are the vertexes (aka nodes). In order to create cyberlinks in Bostrom, user accounts (so-called neurons) must have VOLT and AMPERE tokens. By definition, created cyberlinks cannot be deleted. This means, among other things, that they will always be taken into account in cyberrank (until "forgetting" or "pruning" functions are introduced).
+s. By definition, created cyberlinks cannot be deleted. This means, among other things, that they will always be taken into account in cyberrank (until "forgetting" or "pruning" functions are introduced).
 
 <!-- more -->
 
